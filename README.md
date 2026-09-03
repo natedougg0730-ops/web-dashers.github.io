@@ -11,7 +11,7 @@
   <strong>A modded Geometry Dash demo with extra features added!</strong>
   </p>
   <a 
-  href="https://web-dashers.github.io/" 
+  href="https://web-dashers-unblocked.github.io/" 
   target="_blank">
     <img 
     width="279" 
@@ -54,7 +54,7 @@
 - **All Objects Working** - In the current state of Web Dashers, you might notice some objects seem to be bugged, such as a lack of animations, and coloring being incorrect.
 
 ### Come try out the WIP Web Dashers demo at:
-**[web-dashers.github.io](https://web-dashers.github.io/)**
+**[web-dashers.github.io](https://web-dashers-unblocked.github.io/)**
 
 <sub> Last updated: 8/7/2026
 
